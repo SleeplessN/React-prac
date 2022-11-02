@@ -18,7 +18,7 @@
       "/client/compiled/"
     ]
   },
-  "author": "yamoo9 <yamoo9@euid.dev>",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "7.17.6",
